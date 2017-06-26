@@ -7,7 +7,13 @@
 	width: 50px;
 	height: 50px;
 	margin: 5px;
+	line-height: 50px;
+	vertical-align: middle;
+	text-align: center;
 	border: 1px solid #000;
+}
+.square[data-attr='1'] { 
+	background-color: #FCCF05;
 }
 .square-mid {
 	background-color: #FCCF05;
